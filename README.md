@@ -7,6 +7,9 @@ end points to test:
 additional end points
 
 http://localhost:8000/auth/token/login/
+
+
+
 http://localhost:8000/auth/token/logout/
 
 
